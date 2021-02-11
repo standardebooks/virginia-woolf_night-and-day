@@ -16,6 +16,7 @@
 	display: none;
 }
 
+/* All dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
 }
@@ -41,4 +42,19 @@ section[epub|type~="dedication"] > *{
 	section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
+}
+/* End all dedications */
+
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+}
+
+section[epub|type~="dedication"] i{
+	font-size: .8em;
+	font-variant: normal;
+}
+
+section[epub|type~="dedication"] b{
+	font-size: 1.5em;
+	line-height: 2em;
 }
