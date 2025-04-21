@@ -60,7 +60,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1245</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001025984</dc:source>
-		<meta property="se:word-count">169499</meta>
+		<meta property="se:word-count">169501</meta>
 		<meta property="se:reading-ease.flesch">69.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Night_and_Day_(Woolf_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/virginia-woolf_night-and-day</meta>
