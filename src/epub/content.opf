@@ -55,7 +55,7 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Four young acquaintances in Edwardian London grapple with the quandary of love and marriage.</dc:abstract>
+		<meta property="schema:abstract">Four young acquaintances in Edwardian London grapple with the quandary of love and marriage.</meta>
 		<dc:description>
 			&lt;p&gt;Although known for her later experiments with style and structure, &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt; set out in her early novels to master the traditional form. Her second novel, &lt;i&gt;Night and Day&lt;/i&gt;, presents itself as a seemingly conventional marriage plot, complete with love triangles, broken engagements, and unrequited affections. Beneath these conventional trappings, however, the book’s deeper concerns are resolutely subversive. The main characters—a quartet of friends and would-be lovers—come together, pull apart, and struggle to reconcile socially prescribed norms of love and marriage with their own beliefs and ambitions.&lt;/p&gt;
 		</dc:description>
