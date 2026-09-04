@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Night and Day</dc:title>
 		<meta property="file-as" refines="#title">Night and Day</meta>
-		<dc:subject id="subject-1">London (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-1">London (England)--Fiction</dc:subject>
+		<dc:subject id="subject-2">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
 		<dc:subject id="subject-4">Domestic fiction</dc:subject>
-		<dc:subject id="subject-5">Mothers and daughters -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Triangles (Interpersonal relations) -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Biographers -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Poets -- Family relationships -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Mothers and daughters--Fiction</dc:subject>
+		<dc:subject id="subject-6">Triangles (Interpersonal relations)--Fiction</dc:subject>
+		<dc:subject id="subject-7">Biographers--Fiction</dc:subject>
+		<dc:subject id="subject-8">Poets--Family relationships--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008106611</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
